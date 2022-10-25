@@ -31,16 +31,17 @@ a {
 #code {
   display: none;
   font-size: 16px;
+  margin-top: -150px;
 }
 #clock-box {
   position: absolute;
   left: 60px;
   top: 550px;
-  font-size: 28px;
+  font-size: 35px;
   display: none;
 }
 #clock-box a {
-  font-size: 28px;
+  font-size: 35px;
   text-decoration: none;
 }
 #clock {
@@ -65,7 +66,7 @@ a {
 }
 .say {
   margin-left: 2px;
-  font-size: 20px;
+  font-size: 30px;
 }
 .space {
   margin-right: 150px;
